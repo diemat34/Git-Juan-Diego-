@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hola, me llamo Juan Diego 
 azul es la onda 
+=======
+hola
+>>>>>>> content
